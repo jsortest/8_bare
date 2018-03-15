@@ -1,0 +1,367 @@
+DEBUG: 2018-03-15 12:52:01.4867      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 12:52:02.6463      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+DEBUG: 2018-03-15 12:52:02.7340     ClientConfigurationManager.Sync:0    Synced. Ready to work. 
+TRACE: 2018-03-15 12:52:29.3729         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 12:53:29.4455         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 12:54:29.3764         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 12:55:29.4517         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 12:56:29.3998         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 12:57:02.7443      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 12:57:04.8898      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 12:57:29.4691         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 12:58:29.4687         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 12:59:29.4685         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:00:29.5525         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:01:29.4518         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:02:02.7352      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:02:04.3325      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:02:29.4530         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:03:29.5017         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:04:29.5145         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:05:29.5143         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:06:29.5185         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:07:02.7718      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:07:04.4602      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:07:29.5140         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:08:29.5438         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:09:29.5014         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:10:29.5065         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:11:29.5216         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:12:02.7389      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:12:04.2769      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:12:29.5192         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:13:29.5139         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:14:29.5218         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:15:29.5962         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:16:29.5978         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:17:02.7400      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:17:05.0001      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:17:29.5391         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:18:29.5557         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:19:29.5794         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:20:29.5785         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:21:29.5572         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:22:02.7423      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:22:04.2796      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:22:29.5707         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:23:29.5723         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:24:29.5826         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:25:29.6555         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:26:29.6561         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:27:02.7436      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:27:04.5143      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:27:29.5995         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:28:29.5868         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:29:29.6712         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:30:29.6099         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:31:29.6136         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:32:02.7419      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:32:04.4799      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+TRACE: 2018-03-15 13:32:29.6231         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:33:29.6245         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:34:29.6225         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:35:29.6327         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:36:07.6066         ConnectorTCP.WaitForMessage:0    Connection closed 
+INFO: 2018-03-15 13:36:07.6827                 Program.StartClient:0    Connection to the server lost. Stop connection manager, clear all programs and restart sync process. 
+DEBUG: 2018-03-15 13:36:07.6827                      Client.Connect:0    Connecting..... 
+ERROR: 2018-03-15 13:36:08.9968                      Client.Connect:0    Error.....    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at ConnectionManagerLib.Client.Connect() 
+ERROR: 2018-03-15 13:36:08.9968          ConnectorTCP.GetConnection:0    Unable to connect to sorcerer.jabil.com 
+ERROR: 2018-03-15 13:36:08.9968            ConnectorTCP.SendCommand:0    Unable to connect to the peer sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:36:09.0086                    SyncCommand.Send:0    Unable to send command to sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:36:39.0361                      Client.Connect:0    Connecting..... 
+ERROR: 2018-03-15 13:36:40.0463                      Client.Connect:0    Error.....    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at ConnectionManagerLib.Client.Connect() 
+ERROR: 2018-03-15 13:36:40.0613          ConnectorTCP.GetConnection:0    Unable to connect to sorcerer.jabil.com 
+ERROR: 2018-03-15 13:36:40.0659            ConnectorTCP.SendCommand:0    Unable to connect to the peer sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:36:40.0659                    SyncCommand.Send:0    Unable to send command to sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:37:02.7399      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:37:04.4955      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+DEBUG: 2018-03-15 13:37:10.0777                      Client.Connect:0    Connecting..... 
+ERROR: 2018-03-15 13:37:11.2725                      Client.Connect:0    Error.....    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at ConnectionManagerLib.Client.Connect() 
+ERROR: 2018-03-15 13:37:11.2725          ConnectorTCP.GetConnection:0    Unable to connect to sorcerer.jabil.com 
+ERROR: 2018-03-15 13:37:11.2725            ConnectorTCP.SendCommand:0    Unable to connect to the peer sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:37:11.2851                    SyncCommand.Send:0    Unable to send command to sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:37:41.2895                      Client.Connect:0    Connecting..... 
+ERROR: 2018-03-15 13:37:42.3672                      Client.Connect:0    Error.....    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at ConnectionManagerLib.Client.Connect() 
+ERROR: 2018-03-15 13:37:42.3672          ConnectorTCP.GetConnection:0    Unable to connect to sorcerer.jabil.com 
+ERROR: 2018-03-15 13:37:42.3830            ConnectorTCP.SendCommand:0    Unable to connect to the peer sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:37:42.3830                    SyncCommand.Send:0    Unable to send command to sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:38:12.3961                      Client.Connect:0    Connecting..... 
+ERROR: 2018-03-15 13:38:13.5778                      Client.Connect:0    Error.....    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at ConnectionManagerLib.Client.Connect() 
+ERROR: 2018-03-15 13:38:13.5778          ConnectorTCP.GetConnection:0    Unable to connect to sorcerer.jabil.com 
+ERROR: 2018-03-15 13:38:13.5778            ConnectorTCP.SendCommand:0    Unable to connect to the peer sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:38:13.5899                    SyncCommand.Send:0    Unable to send command to sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:38:43.5937                      Client.Connect:0    Connecting..... 
+ERROR: 2018-03-15 13:38:44.6643                      Client.Connect:0    Error.....    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at ConnectionManagerLib.Client.Connect() 
+ERROR: 2018-03-15 13:38:44.6643          ConnectorTCP.GetConnection:0    Unable to connect to sorcerer.jabil.com 
+ERROR: 2018-03-15 13:38:44.6725            ConnectorTCP.SendCommand:0    Unable to connect to the peer sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:38:44.7242                    SyncCommand.Send:0    Unable to send command to sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:39:14.7305                      Client.Connect:0    Connecting..... 
+DEBUG: 2018-03-15 13:39:14.7305                      Client.Connect:0    Connected 
+DEBUG: 2018-03-15 13:39:14.7305          ConnectorTCP.GetConnection:0    Create new connection 
+DEBUG: 2018-03-15 13:39:14.7435 ConnectorTCP.HandleIncomingConnecti:0    New connection: sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:39:14.9610         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:39:14.9610     ClientConfigurationManager.Sync:0    Update field KeepAliveInterval = 1 
+DEBUG: 2018-03-15 13:39:14.9610     ClientConfigurationManager.Sync:0    Update field ClientAppRepo = https://github.com/jsortest/client-app_bare.git 
+DEBUG: 2018-03-15 13:39:14.9708        ProgramStorage.ConfigHandler:0    Program  
+DEBUG: 2018-03-15 13:39:14.9708               AppUpdateManager.Init:0    App repo : https://github.com/jsortest/client-app_bare.git 
+DEBUG: 2018-03-15 13:39:42.2539     ClientConfigurationManager.Sync:0    Synced. Ready to work. 
+TRACE: 2018-03-15 13:39:45.3176         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:40:45.3247         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:41:45.3845         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:42:02.7439      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:42:04.3686      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
+DEBUG: 2018-03-15 13:42:29.0838         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:29.0838        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: 
+ -Task ID: 2 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:29.1159      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:42:30.3531         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:30.3609        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: 
+ -Task ID: 4 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:30.3609      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:42:31.6658         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:31.6658        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\
+ -Task ID: 6 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:31.6658      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:42:33.4162         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:33.4663        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\
+ -Task ID: 8 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:33.4663      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:42:37.9555         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:37.9555        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 10 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:37.9555      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:42:42.2873         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:42.2873        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 12 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:42.2873      EnforcerTaskHandler.ListFolder:0    List Folder 
+TRACE: 2018-03-15 13:42:45.3286         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:42:58.6438         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:58.6438        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: 
+ -Task ID: 14 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:58.6438      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:42:59.3661         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:42:59.3661        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: 
+ -Task ID: 16 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:42:59.3661      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:43:00.1863         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:43:00.1940        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\
+ -Task ID: 18 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:43:00.1940      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:43:00.8028         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:43:00.8028        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\
+ -Task ID: 20 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:43:00.8028      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:43:03.6111         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:43:03.6111        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 22 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:43:03.6111      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:43:07.5534         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:43:07.5534        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 24 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:43:07.5534      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:43:41.2511         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:43:41.2511        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 28 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:43:41.2511      EnforcerTaskHandler.ListFolder:0    List Folder 
+TRACE: 2018-03-15 13:43:45.3345         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:44:27.4641         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:44:27.4641        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 34 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:44:27.4707      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:44:34.1941         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:44:34.2455        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 36 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:44:34.2455      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:44:44.3310         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:44:44.3310        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\11\
+ -Task ID: 38 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:44:44.3310      EnforcerTaskHandler.ListFolder:0    List Folder 
+TRACE: 2018-03-15 13:44:45.3352         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:44:54.9712         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:44:54.9712        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: UPLOAD
+ -Message: D:\sor-test\11\
+https://github.com/jsortest/8_bare.git
+t-aoi11
+Iurii_Lukianov@jabil.com
+Iurii_Lukianov@jabil.com
+
+ -Task ID: 40 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:44:54.9712   EnforcerTaskHandler.UploadProgram:0    Upload program 
+DEBUG: 2018-03-15 13:44:54.9712   EnforcerTaskHandler.UploadProgram:0    Create temporary repository D:\sor-test\11\ on client 
+DEBUG: 2018-03-15 13:44:55.0594   EnforcerTaskHandler.UploadProgram:0    Adding remote https://github.com/jsortest/8_bare.git 
+DEBUG: 2018-03-15 13:44:55.0698   EnforcerTaskHandler.UploadProgram:0    Add all files 
+DEBUG: 2018-03-15 13:44:55.1897   EnforcerTaskHandler.UploadProgram:0    Check diff 
+DEBUG: 2018-03-15 13:44:55.1897   EnforcerTaskHandler.UploadProgram:0    Commit files 
+DEBUG: 2018-03-15 13:44:55.3264   EnforcerTaskHandler.UploadProgram:0    Push to server from D:\sor-test\11\ 
+DEBUG: 2018-03-15 13:44:58.1011   EnforcerTaskHandler.UploadProgram:0    Remove the temporary repository 
+DEBUG: 2018-03-15 13:45:42.5924         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:45:42.6735        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 44 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:45:42.6735      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:45:43.6307         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:45:43.6455        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\
+ -Task ID: 46 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:45:43.6455      EnforcerTaskHandler.ListFolder:0    List Folder 
+TRACE: 2018-03-15 13:45:45.3578         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:45:45.6220         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:45:45.6660        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\000000-9999\
+ -Task ID: 48 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:45:45.6660      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:45:48.5530         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:45:48.5530        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: DOWNLOAD
+ -Message: D:\sor-test\000000-9999\1155
+https://github.com/jsortest/8_bare.git
+2-TE-0100-8-1_0_0_0
+1
+ -Task ID: 50 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:45:48.6051 EnforcerTaskHandler.DownloadProgram:0    Download program 
+DEBUG: 2018-03-15 13:45:48.6051 EnforcerTaskHandler.DownloadProgram:0    Checking for existing Program D:\sor-test\000000-9999\1155 
+DEBUG: 2018-03-15 13:45:48.6126 EnforcerTaskHandler.DownloadProgram:0    Create directory D:\sor-test\000000-9999\1155 
+DEBUG: 2018-03-15 13:45:48.6126 EnforcerTaskHandler.DownloadProgram:0    Download program 
+DEBUG: 2018-03-15 13:45:48.6126          ControlledProgram.Download:0    Clone from the repository https://github.com/jsortest/8_bare.git to D:\sor-test\000000-9999\1155...
+ 
+DEBUG: 2018-03-15 13:45:49.5003          ControlledProgram.Download:0    Reset to version 2-TE-0100-8-1_0_0_0
+ 
+DEBUG: 2018-03-15 13:46:07.7544         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:46:07.7544        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\000000-9999\1155\
+ -Task ID: 52 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:46:07.7544      EnforcerTaskHandler.ListFolder:0    List Folder 
+DEBUG: 2018-03-15 13:46:17.3168         ConnectorTCP.WaitForMessage:0    Received message from sorcerer.jabil.com 
+TRACE: 2018-03-15 13:46:17.3168        Program.ClientMessageHandler:0    Received from sorcerer.jabil.com command 
+-Message-
+ -Command: FOLDERLS
+ -Message: D:\sor-test\000000-9999\1155\
+ -Task ID: 54 
+ -Error: INVALID 
+DEBUG: 2018-03-15 13:46:17.3168      EnforcerTaskHandler.ListFolder:0    List Folder 
+TRACE: 2018-03-15 13:46:45.3651         ConnectorTCP.WaitForMessage:0    Keep alive from sorcerer.jabil.com 
+DEBUG: 2018-03-15 13:47:02.7421      AppUpdateManager.UpdateHandler:0    Check for updates 
+DEBUG: 2018-03-15 13:47:04.3131      AppUpdateManager.UpdateHandler:0    '1.0.16.0'/'1.0.16.0' 
