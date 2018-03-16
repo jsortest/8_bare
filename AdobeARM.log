@@ -1,0 +1,260 @@
+[2017-09-18 10:49:15:0900] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:ylukyano /SESSIONID:1
+[2017-09-18 10:49:17:0411] CreateProcessAsUser succeeded
+[2017-09-18 10:49:17:0412] Helper succeeded
+
+
+
+[2017-09-21 12:18:24:0546] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:ylukyano /SESSIONID:1
+[2017-09-21 12:18:24:0893] CreateProcessAsUser succeeded
+[2017-09-21 12:18:24:0894] Helper succeeded
+
+
+
+[2017-11-09 15:13:33:0358] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:ylukyano /SESSIONID:1
+[2017-11-09 15:13:33:0695] CreateProcessAsUser succeeded
+[2017-11-09 15:13:33:0695] Helper succeeded
+
+
+
+[2017-11-16 18:02:51:0071] Helper started, Command Line: /ArmElevate /CollectFiles /Svc /USER:ylukyano /SESSIONID:1
+[2017-11-16 18:02:51:0362] CreateProcessAsUser succeeded
+[2017-11-16 18:02:51:0363] Helper succeeded
+
+
+
+[2017-11-17 18:05:40:0810] Helper started, Command Line: /ArmUpdate /MSI FOLDER:"C:\ProgramData\Adobe\ARM\S\27677" /MODE:3 /PRODUCT:Reader /VERSION:17.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:1
+[2017-11-17 18:05:42:0381] File copied: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\Arm_001824245926_1487549407317083459568059527808077409.msi
+[2017-11-17 18:05:57:0041] CreateProcessAsUser succeeded
+[2017-11-17 18:05:57:0041] Helper succeeded
+[2017-11-17 18:05:57:0102] Helper succeeded
+
+
+
+[2017-11-17 18:05:57:0207] Adobe ARM 1.824.24.5926 logging started.
+[2017-11-17 18:05:57:0249] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2017-11-17 18:05:57:0249] ProductName: Adobe Acrobat Reader DC
+[2017-11-17 18:05:57:0250] ProductVersion: 17.012.20098
+[2017-11-17 18:05:57:0250] ProductUACPatching: enabled
+[2017-11-17 18:05:57:0279] Using CommandLine preference AUTO_ALL
+[2017-11-17 18:05:57:0390] MDOV
+[2017-11-17 18:05:57:0390]    Error Code: 1615
+[2017-11-17 18:05:57:0390] New file object: AcroRdrDCUpd1800920044_incr.msp
+[2017-11-17 18:05:57:0690] DuplicateTokenEx success: explorer.exe
+[2017-11-17 18:05:57:0707] InstallProductMsp...
+[2017-11-17 18:05:57:0708]    file - C:\ProgramData\Adobe\ARM\Reader_17.012.20098\AcroRdrDCUpd1800920044_incr.msp
+[2017-11-17 18:05:57:0708]    args - ARM_EXECUTION=YES
+[2017-11-17 18:07:03:0354] Installation returned ERROR_SUCCESS_REBOOT_REQUIRED
+[2017-11-17 18:07:03:0360] *** Product after installation ***
+[2017-11-17 18:07:03:0361] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2017-11-17 18:07:03:0361] ProductName: Adobe Acrobat Reader DC
+[2017-11-17 18:07:03:0361] ProductVersion: 18.009.20044
+[2017-11-17 18:07:03:0361] ProductUACPatching: enabled
+[2017-11-17 18:07:03:0370] DuplicateTokenEx success: explorer.exe
+[2017-11-17 18:07:04:0418] ARM returns ERROR_SUCCESS
+[2017-11-17 18:07:04:0418] Adobe ARM 1.824.24.5926 logging finished.
+
+
+
+[2017-12-04 10:55:46:0654] Helper started, Command Line: /ArmElevate /CollectFiles /Svc /USER:ylukyano /SESSIONID:1
+[2017-12-04 10:55:46:0693] CreateProcessAsUser succeeded
+[2017-12-04 10:55:46:0694] Helper succeeded
+
+
+
+[2017-12-04 11:04:28:0620] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:Reader /VERSION:18.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:1
+[2017-12-04 11:04:30:0372] Helper succeeded
+
+
+
+[2017-12-04 11:04:30:0515] Adobe ARM 1.824.24.5926 logging started.
+[2017-12-04 11:04:30:0561] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2017-12-04 11:04:30:0561] ProductName: Adobe Acrobat Reader DC
+[2017-12-04 11:04:30:0561] ProductVersion: 18.009.20044
+[2017-12-04 11:04:30:0561] ProductUACPatching: enabled
+[2017-12-04 11:04:30:0586] Using CommandLine preference AUTO_ALL
+[2017-12-04 11:04:30:0749] MDOV
+[2017-12-04 11:04:30:0749]    Error Code: 1615
+[2017-12-04 11:04:30:0749] New file object: AcroRdrDCUpd1800920050_incr.msp
+[2017-12-04 11:04:30:0794] DuplicateTokenEx success: explorer.exe
+[2017-12-04 11:04:30:0811] InstallProductMsp...
+[2017-12-04 11:04:30:0812]    file - C:\ProgramData\Adobe\ARM\Reader_18.009.20044\AcroRdrDCUpd1800920050_incr.msp
+[2017-12-04 11:04:30:0812]    args - ARM_EXECUTION=YES
+[2017-12-04 11:04:56:0535] Installation returned ERROR_SUCCESS
+[2017-12-04 11:04:56:0537] *** Product after installation ***
+[2017-12-04 11:04:56:0538] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2017-12-04 11:04:56:0538] ProductName: Adobe Acrobat Reader DC
+[2017-12-04 11:04:56:0538] ProductVersion: 18.009.20050
+[2017-12-04 11:04:56:0538] ProductUACPatching: enabled
+[2017-12-04 11:04:56:0546] DuplicateTokenEx success: explorer.exe
+[2017-12-04 11:04:57:0303] ARM returns ERROR_SUCCESS
+[2017-12-04 11:04:57:0303] Adobe ARM 1.824.24.5926 logging finished.
+
+
+
+[2017-12-07 15:56:17:0755] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:18.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:1
+[2017-12-07 15:56:18:0447] Helper succeeded
+
+
+
+[2017-12-07 15:56:18:0568] Adobe ARM 1.824.24.5926 logging started.
+[2017-12-07 15:56:18:0652] Using CommandLine preference AUTO_ALL
+[2017-12-07 15:56:18:0739] MDOV
+[2017-12-07 15:56:18:0739]    Error Code: 1615
+[2017-12-07 15:56:18:0739] New file object: RdrServicesUpdater2_1800920044.exe
+[2017-12-07 15:56:18:0739] MDOV
+[2017-12-07 15:56:18:0739]    Error Code: 1615
+[2017-12-07 15:56:18:0766] DuplicateTokenEx success: explorer.exe
+[2017-12-07 15:56:18:0785] InstallProductExe...
+[2017-12-07 15:56:18:0785]    file - C:\ProgramData\Adobe\ARM\{291AA914-A987-4CE9-BD63-AC0A92D435E5}\RdrServicesUpdater2_1800920044.exe
+[2017-12-07 15:56:18:0785]    args - 
+[2017-12-07 15:56:19:0588] Installation returned ERROR_SUCCESS
+[2017-12-07 15:56:19:0590] *** Product after installation ***
+[2017-12-07 15:56:19:0612] DuplicateTokenEx success: explorer.exe
+[2017-12-07 15:56:20:0096] ARM returns ERROR_SUCCESS
+[2017-12-07 15:56:20:0096] Adobe ARM 1.824.24.5926 logging finished.
+
+
+
+[2018-02-14 15:56:15:0705] Helper started, Command Line: /ArmUpdate /MSI FOLDER:"C:\ProgramData\Adobe\ARM\S\20883" /MODE:3 /PRODUCT:AdobeARM /VERSION:1.0 /LANG:ENU /Svc /USER:ylukyano /SESSIONID:2
+[2018-02-14 15:56:19:0748] File copied: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\Arm_001824261196_9651542242818175085383863431730826672.msi
+[2018-02-14 15:56:35:0019] CreateProcessAsUser succeeded
+[2018-02-14 15:56:35:0019] Helper succeeded
+[2018-02-14 15:56:35:0024] CreateProcessAsUser succeeded
+[2018-02-14 15:56:35:0024] Helper succeeded
+
+
+
+[2018-02-15 15:00:34:0118] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:18.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:2
+[2018-02-15 15:00:34:0636] Helper succeeded
+
+
+
+[2018-02-15 15:00:34:0785] Adobe ARM 1.824.26.1196 logging started.
+[2018-02-15 15:00:34:0845] Using CommandLine preference AUTO_ALL
+[2018-02-15 15:00:34:0907] MDOV
+[2018-02-15 15:00:34:0907]    Error Code: 1615
+[2018-02-15 15:00:34:0907] New file object: RdrServicesUpdater2_1800920044.exe
+[2018-02-15 15:00:34:0907] MDOV
+[2018-02-15 15:00:34:0907]    Error Code: 1615
+[2018-02-15 15:00:34:0927] DuplicateTokenEx success: explorer.exe
+[2018-02-15 15:00:34:0985] InstallProductExe...
+[2018-02-15 15:00:34:0985]    file - C:\ProgramData\Adobe\ARM\{291AA914-A987-4CE9-BD63-AC0A92D435E5}\RdrServicesUpdater2_1800920044.exe
+[2018-02-15 15:00:34:0985]    args - 
+[2018-02-15 15:00:35:0108] Installation returned ERROR_SUCCESS
+[2018-02-15 15:00:35:0109] *** Product after installation ***
+[2018-02-15 15:00:35:0114] DuplicateTokenEx success: explorer.exe
+[2018-02-15 15:00:35:0363] ARM returns ERROR_SUCCESS
+[2018-02-15 15:00:35:0363] Adobe ARM 1.824.26.1196 logging finished.
+
+
+
+[2018-02-26 13:00:17:0928] Helper started, Command Line: /ArmElevate /CollectFiles /Svc /USER:ylukyano /SESSIONID:2
+[2018-02-26 13:00:17:0947] CreateProcessAsUser succeeded
+[2018-02-26 13:00:17:0947] Helper succeeded
+
+
+
+[2018-02-26 13:00:31:0969] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:Reader /VERSION:18.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:2
+[2018-02-26 13:00:32:0436] Helper succeeded
+
+
+
+[2018-02-26 13:00:32:0477] Adobe ARM 1.824.26.1196 logging started.
+[2018-02-26 13:00:32:0501] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2018-02-26 13:00:32:0501] ProductName: Adobe Acrobat Reader DC
+[2018-02-26 13:00:32:0501] ProductVersion: 18.011.20036
+[2018-02-26 13:00:32:0501] ProductUACPatching: enabled
+[2018-02-26 13:00:32:0528] Using CommandLine preference AUTO_ALL
+[2018-02-26 13:00:32:0572] MDOV
+[2018-02-26 13:00:32:0572]    Error Code: 1615
+[2018-02-26 13:00:32:0572] New file object: AcroRdrDCUpd1801120038_incr.msp
+[2018-02-26 13:00:32:0606] DuplicateTokenEx success: explorer.exe
+[2018-02-26 13:00:32:0663] InstallProductMsp...
+[2018-02-26 13:00:32:0663]    file - C:\ProgramData\Adobe\ARM\Reader_18.011.20036\AcroRdrDCUpd1801120038_incr.msp
+[2018-02-26 13:00:32:0663]    args - ARM_EXECUTION=YES
+[2018-02-26 13:01:26:0686] Installation returned ERROR_SUCCESS
+[2018-02-26 13:01:26:0687] *** Product after installation ***
+[2018-02-26 13:01:26:0687] ProductCode: {AC76BA86-7AD7-1033-7B44-AC0F074E4100}
+[2018-02-26 13:01:26:0687] ProductName: Adobe Acrobat Reader DC
+[2018-02-26 13:01:26:0687] ProductVersion: 18.011.20038
+[2018-02-26 13:01:26:0687] ProductUACPatching: enabled
+[2018-02-26 13:01:26:0708] DuplicateTokenEx success: explorer.exe
+[2018-02-26 13:01:27:0252] ARM returns ERROR_SUCCESS
+[2018-02-26 13:01:27:0252] Adobe ARM 1.824.26.1196 logging finished.
+
+
+
+[2018-02-26 15:00:16:0556] Helper started, Command Line: /ArmUpdate /MSI FOLDER:"C:\ProgramData\Adobe\ARM\S\20566" /MODE:3 /PRODUCT:AdobeARM /VERSION:1.0 /LANG:ENU /Svc /USER:ylukyano /SESSIONID:2
+[2018-02-26 15:00:17:0062] File copied: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Cache\Arm_001824265200_18727808361790981988163582170689019208.msi
+[2018-02-26 15:00:30:0416] CreateProcessAsUser succeeded
+[2018-02-26 15:00:30:0416] Helper succeeded
+[2018-02-26 15:00:30:0442] CreateProcessAsUser succeeded
+[2018-02-26 15:00:30:0442] Helper succeeded
+
+
+
+[2018-03-05 15:01:45:0052] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:2
+[2018-03-05 15:01:45:0229] Helper succeeded
+
+
+
+[2018-03-05 15:01:45:0422] Adobe ARM 1.824.26.5200 logging started.
+[2018-03-05 15:01:45:0493] Using CommandLine preference AUTO_ALL
+[2018-03-05 15:01:45:0602] MDOV
+[2018-03-05 15:01:45:0602]    Error Code: 1615
+[2018-03-05 15:01:45:0603] No files in Session, setting NO_UPDATES mode
+[2018-03-05 15:01:45:0612] No file objects in Session
+[2018-03-05 15:01:45:0612]    Error Code: 180000
+[2018-03-05 15:01:45:0898] ARM returns ERROR_SUCCESS
+[2018-03-05 15:01:45:0898] Adobe ARM 1.824.26.5200 logging finished.
+
+
+
+[2018-03-09 10:51:43:0266] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:1
+[2018-03-09 10:52:04:0512] Helper succeeded
+
+
+
+[2018-03-09 10:52:04:0695] Adobe ARM 1.824.26.5200 logging started.
+[2018-03-09 10:52:04:0779] Using CommandLine preference AUTO_ALL
+[2018-03-09 10:52:04:0864] MDOV
+[2018-03-09 10:52:04:0864]    Error Code: 1615
+[2018-03-09 10:52:04:0864] No files in Session, setting NO_UPDATES mode
+[2018-03-09 10:52:04:0900] No file objects in Session
+[2018-03-09 10:52:04:0900]    Error Code: 180000
+[2018-03-09 10:52:05:0188] ARM returns ERROR_SUCCESS
+[2018-03-09 10:52:05:0188] Adobe ARM 1.824.26.5200 logging finished.
+
+
+
+[2018-03-12 12:03:27:0293] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:1
+[2018-03-12 12:03:27:0682] Helper succeeded
+
+
+
+[2018-03-12 12:03:27:0827] Adobe ARM 1.824.26.5200 logging started.
+[2018-03-12 12:03:27:0877] Using CommandLine preference AUTO_ALL
+[2018-03-12 12:03:27:0963] MDOV
+[2018-03-12 12:03:27:0963]    Error Code: 1615
+[2018-03-12 12:03:27:0963] No files in Session, setting NO_UPDATES mode
+[2018-03-12 12:03:27:0967] No file objects in Session
+[2018-03-12 12:03:27:0967]    Error Code: 180000
+[2018-03-12 12:03:28:0731] ARM returns ERROR_SUCCESS
+[2018-03-12 12:03:28:0731] Adobe ARM 1.824.26.5200 logging finished.
+
+
+
+[2018-03-15 13:37:13:0087] Helper started, Command Line: /ArmElevate /MODE:3 /PRODUCT:{291AA914-A987-4CE9-BD63-AC0A92D435E5} /VERSION:17.0 /LANG:ENU /Svc /USER:SYSTEM /SESSIONID:1
+[2018-03-15 13:37:28:0173] Helper succeeded
+
+
+
+[2018-03-15 13:37:28:0336] Adobe ARM 1.824.26.5200 logging started.
+[2018-03-15 13:37:28:0446] Using CommandLine preference AUTO_ALL
+[2018-03-15 13:37:28:0576] MDOV
+[2018-03-15 13:37:28:0576]    Error Code: 1615
+[2018-03-15 13:37:28:0577] No files in Session, setting NO_UPDATES mode
+[2018-03-15 13:37:28:0594] No file objects in Session
+[2018-03-15 13:37:28:0594]    Error Code: 180000
+[2018-03-15 13:37:28:0845] ARM returns ERROR_SUCCESS
+[2018-03-15 13:37:28:0845] Adobe ARM 1.824.26.5200 logging finished.
